@@ -1,0 +1,25 @@
+site_name: SSH for Mere Mortals
+site_description: Plain-language SSH — the tool everything else rides on.
+site_url: https://paulsullivan33-dev.github.io/ssh-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Is SSH?: what-is-ssh.md
+  - Your First Connection: your-first-connection.md
+  - Passwords vs Keys: passwords-vs-keys.md
+  - Your First Key: your-first-key.md
+  - The SSH Config File: ssh-config.md
+  - Jump Hosts: jump-hosts.md
+  - The SSH Agent: the-ssh-agent.md
+  - Connection Multiplexing: multiplexing.md
+  - Tunneling: tunneling.md
+  - Moving Files: moving-files.md
+  - Server-Side Basics: server-side-basics.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
