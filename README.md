@@ -67,3 +67,19 @@ show verified output. Anything labeled illustrative says so.
 
 *Written to the [nine-point writing standard](criteria.md) shared by
 every guide in this series.*
+
+---
+
+## Part of the series
+
+This guide is one of the [For Mere Mortals](https://paulsullivan33-dev.github.io/mere-mortals/) guides: plain-language guides to the tools programmers and makers use.
+
+Related guides:
+
+- [Tailscale for Mere Mortals](https://paulsullivan33-dev.github.io/tailscale-for-mere-mortals/)
+- [WireGuard for Mere Mortals](https://paulsullivan33-dev.github.io/wireguard-for-mere-mortals/)
+- [tmux for Mere Mortals](https://paulsullivan33-dev.github.io/tmux-for-mere-mortals/)
+
+## License
+
+The writing in this guide is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/ssh-for-mere-mortals/blob/main/LICENSE). Code examples and lab scripts are licensed under the [MIT License](https://github.com/paulsullivan33-dev/ssh-for-mere-mortals/blob/main/LICENSE-CODE).
